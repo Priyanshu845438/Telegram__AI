@@ -1,0 +1,14 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai>=1.24.0",
+    "gtts>=2.5.4",
+    "pydub>=0.25.1",
+    "python-telegram-bot==21.5",
+    "sift-stack-py>=0.7.0",
+    "speechrecognition>=3.14.3",
+    "telegram>=0.0.1",
+]
