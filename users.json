@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "user_id": 5213210887,
+    "username": "raj_singh_0",
+    "name": "Priyanshu Raj",
+    "age": 22,
+    "phone": "6206698170",
+    "gender": "Male",
+    "language": "English",
+    "symptoms": "I have fever",
+    "advice": "It sounds like you're experiencing a fever, which is your body's natural response to fighting off an infection or illness. While I can't provide a diagnosis, I can offer some general health advice to help you manage your symptoms.\n\nHere are some common recommendations for managing a fever at home:\n\n*   **Rest:** Get plenty of rest to allow your body to recover.\n*   **Stay Hydrated:** Drink plenty of fluids like water, clear broths, or electrolyte solutions to prevent dehydration, especially since fever can lead to fluid loss.\n*   **Over-the-Counter Medication:** Medications like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can help reduce fever and alleviate discomfort. Always follow the dosage instructions on the label and be aware of any contraindications.\n*   **Comfort Measures:** Wear light clothing, use a light blanket, and consider a cool compress on",
+    "date": "2025-07-02T12:16:56.822076"
+  },
+  {
+    "user_id": 5213210887,
+    "username": "raj_singh_0",
+    "name": "प्रियांशु राज",
+    "age": 22,
+    "phone": "6206698170",
+    "gender": "पुरुष",
+    "language": "Hindi",
+    "symptoms": "मुझे बुखार है।",
+    "advice": "मुझे खुशी है कि आपने संपर्क किया। फिलहाल मैं आपके लक्षणों के लिए विशिष्ट सलाह नहीं दे पा रहा हूं। यहां कुछ सामान्य स्वास्थ्य सुझाव हैं:\n\n• पर्याप्त पानी पिएं और आराम करें\n• अपने लक्षणों पर ध्यान रखें\n• यदि लक्षण बने रहें या बढ़ें तो डॉक्टर से सलाह लें\n• गंभीर लक्षणों के लिए तुरंत चिकित्सा सहायता लें\n\nकृपया उचित चिकित्सा मूल्यांकन के लिए किसी योग्य डॉक्टर से सलाह लें।",
+    "date": "2025-07-02T12:18:03.410120"
+  }
+]
